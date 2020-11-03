@@ -1,0 +1,52 @@
+body
+{
+background:linear-gradient(#f78ff6,#ff7df8,#87cbff,#61b8fa);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size:20px; 
+  background:linear-gradient(#c082fa,#ad5ef7);
+  letter-spacing:20px;
+  border-radius:20px;
+  font-family: 'Inconsolata', monospace;
+}
+
+.emotion{
+ color:#8513f0;
+ font-size:25px;
+ font-weight:bold;
+}
+
+.emoji{
+  font-size: 30px;
+  
+}
+
+label{
+  font-size:18px;
+  color:#a8e4f0;
+  padding:5px;
+  border-radius:5px;
+}
